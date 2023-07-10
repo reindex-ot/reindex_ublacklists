@@ -121,3 +121,7 @@
 *://www.isunshare.com/*
 *://*.zaso-landa.cz/*
 *://*.atributx.cz/*
+*://*.itopvpn.com/*
+*://*.amoyshare.com/*
+*://www.5kplayer.com/*
+*://*.widsmob.com/*
