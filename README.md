@@ -2,6 +2,10 @@
 検索結果を汚染する物を消し去るuBlacklistのフィルタリングファイルです。
 
 購読を行なうと検索結果から不要な物を消し去る事が可能です。
+## uBlacklistのインストール
+- [Google Chrome](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja)
+
+- [Firefox](https://addons.mozilla.org/ja/firefox/addon/ublacklist/)
 ## フィルタの購読
 https://raw.githubusercontent.com/reindex-ot/reindex_ublacklists/main/reindex_ublacklists.txt
 ## 消し去る物
