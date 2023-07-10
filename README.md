@@ -1,4 +1,4 @@
-# Re*Index.(ot_inc) uBlacklists Filter
+# Re*Index.(ot_inc) uBlacklist Filter
 検索結果を汚染する物を消し去るuBlacklistのフィルタリングファイルです。
 
 購読を行なうと検索結果から不要な物を消し去る事が可能です。
