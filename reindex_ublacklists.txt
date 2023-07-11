@@ -158,3 +158,13 @@
 *://*.com.tn/*
 *://*.icrt.cu/*
 *://*.uprrp.edu/*
+*://oneclickroot.com/*
+*://*.hnizdilpneu.cz/*
+*://*.frastakhlohovec.sk/*
+*://*.kingoapp.com/*
+*://www.imobie.jp/*
+*://*.theimre.sk/*
+*://*.konkurznaakademia.sk/*
+*://www.bitwarsoft.com/*
+*://*.michaelamikitova.sk/*
+*://*.postavimedom.sk/*
