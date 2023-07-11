@@ -157,4 +157,4 @@
 *://*.icrt.cu/*
 *://qaqcs.com/*
 *://*.edu.mx/*
-*://voxpop.com.mx/*
+*://*.com.mx/*
