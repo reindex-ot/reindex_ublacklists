@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/reindex-ot/reindex_ublacklists/main/reindex_ub
 - ○○ツールと言った検索のトップに出てくる課金有りきな怪しいツールの類
 - スマホダイジェストと言った詐欺サイト(Fuck)
 - Magiskの本家ではないサイトを抹消
+- YouTubeVancedとReVancedの公式ではないサイトを抹消
 - 悪質なサイトにリダイレクトをする物(uBlockやAdGuardで反応する物が対象)
 ## フィルタの更新について
 要望を頂ければ定期的に更新を行ないます。
