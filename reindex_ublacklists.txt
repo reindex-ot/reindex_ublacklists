@@ -433,3 +433,5 @@
 *://www.rayonnageindustriel.fr/*
 *://royalskin.care/*
 *://multiculticlub.pl/*
+*://*.mosselbayzipline.co.za/*
+*://www.*.gob.ec/*
