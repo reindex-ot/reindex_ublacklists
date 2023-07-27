@@ -1,3 +1,4 @@
+@*://search.rakuten.co.jp/*
 *://*.easeus.com/*
 *://*.easeus.jp/*
 *://*.easeus.*/
