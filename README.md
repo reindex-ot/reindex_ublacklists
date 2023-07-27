@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/reindex-ot/reindex_ublacklists/main/reindex_ub
 - 悪質なサイトにリダイレクトをする物(uBlockやAdGuardで反応する物が対象)
 - 「日本最大のフリマサービスです」などの通販詐欺サイト
 
+
 ...等など悪質な物をメインに消し去るルールを加えています。
 ## フィルタの更新について
 要望を頂ければ定期的に更新を行ないます。
