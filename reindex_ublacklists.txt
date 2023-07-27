@@ -735,3 +735,10 @@
 *://*.*.edu.in/*
 *://www.*.edu.it/*
 *://*.edu/*
+*://www.*.*.id/*
+*://*.*.pl/*
+*://afcsushi.com/*
+*://*.*.go.id/*
+*://*.texas.gov/*
+*://detrac.id/*
+*://socearq.org/*
