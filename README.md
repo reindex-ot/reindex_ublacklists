@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/reindex-ot/reindex_ublacklists/main/reindex_ub
 - Magiskの本家ではないサイトを抹消
 - YouTubeVancedとReVancedの公式ではないサイトを抹消
 - 悪質なサイトにリダイレクトをする物(uBlockやAdGuardで反応する物が対象)
+- 「日本最大のフリマサービスです」などの通販詐欺サイトを抹消
 ## フィルタの更新について
 要望を頂ければ定期的に更新を行ないます。
 
