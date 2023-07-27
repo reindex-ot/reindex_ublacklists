@@ -742,3 +742,12 @@
 *://*.texas.gov/*
 *://detrac.id/*
 *://socearq.org/*
+*://7ziphelp.com/*
+*://www.pchelpsoft.com/*
+*://www.drivereasy.com/*
+*://www.drivereasy.jp/*
+*://www.winzipsystemtools.com/*
+*://www.advanceddriverupdater.com/*
+*://devicedoctor.com/*
+*://www.driversupport.com/*
+*://driverfix.com/*
