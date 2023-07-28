@@ -769,3 +769,4 @@
 *://canosay.online/*
 *://buaoy.online/*
 *://hugereport.space/*
+*://magisk-manager.jp.malavida.com/*
