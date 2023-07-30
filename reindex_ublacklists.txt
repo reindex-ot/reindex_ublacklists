@@ -1,4 +1,5 @@
 @*://search.rakuten.co.jp/*
+@*://auctions.yahoo.co.jp/*
 *://*.easeus.com/*
 *://*.easeus.jp/*
 *://*.easeus.*/
@@ -787,3 +788,19 @@
 *://*.co.za/*
 *://*.gov.ag/*
 *://www.caddytek.com/*
+*://*.gov.zw/*
+*://sutekinaheya.com/*
+*://www.karuizawa-food.com/*
+*://noonanwaste.com/*
+*://ircabc.club/*
+*://tunegocionow.com/*
+*://navepac.co/*
+*://*.*.edu.pe/*
+*://nivkidsclub.com/*
+*://*.*.ac.id/*
+*://www.mtlnovel.com/*
+*://imocle.fr/*
+*://noury-yann.fr/*
+*://admin.tsukinowa.co.jp/*
+*://*.gov.krd/*
+*://www.willemijnterburg.nl/*
