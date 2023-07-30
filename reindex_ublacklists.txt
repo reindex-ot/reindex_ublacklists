@@ -1,5 +1,6 @@
 @*://search.rakuten.co.jp/*
 @*://auctions.yahoo.co.jp/*
+@*://jp.mercari.com/*
 *://*.easeus.com/*
 *://*.easeus.jp/*
 *://*.easeus.*/
@@ -804,3 +805,5 @@
 *://admin.tsukinowa.co.jp/*
 *://*.gov.krd/*
 *://www.willemijnterburg.nl/*
+*://cozmos.pt/*
+*://*.*.hu/*
